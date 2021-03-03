@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".BookingActivity">
 
-
     <TextView
         android:id="@+id/textBooking"
         android:layout_width="wrap_content"
